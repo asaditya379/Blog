@@ -1,2 +1,2 @@
-# Blog
-Blog Demo
+# Lisbon Chair Shop
+Demo
